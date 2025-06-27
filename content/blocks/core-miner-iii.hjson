@@ -1,4 +1,5 @@
 type: AdaptiveMining
+size: 2
 name: Core Miner III
 requirements :[
 beryllium/110
