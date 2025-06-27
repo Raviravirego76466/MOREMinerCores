@@ -1,0 +1,8 @@
+name: more-miner-cores
+displayName: More Miner Cores
+author: Raviravirego76466
+version: 1
+minGameVersion: 148
+dependencies: [
+extra-utilities
+]
