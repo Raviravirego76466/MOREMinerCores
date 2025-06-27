@@ -1,0 +1,17 @@
+type: AdaptiveMining
+name: Core Miner III
+requirements :[
+beryllium/110
+silicon/110
+graphite/110
+]
+pullItem: [
+copper/1
+lead/2
+coal/2
+silicon/1
+beryllium/2
+graphite/1
+thorium/2
+tungsten/1
+]
